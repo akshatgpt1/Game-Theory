@@ -1,9 +1,5 @@
 # Game-Theory
 Developed games based on cournot and bertrand model.
-[GAME THEORY.pdf](https://github.com/user-attachments/files/17969503/GAME.THEORY.pdf)
-
-
-Codes that are in the pdf
 
 Code for the game Roulett spin(cournot model)-link of code( https://drive.google.com/file/d/1BwPJAwefBsRZz9ZRFVPqrtX0tvjfqZ7B/view?usp=drive_link) 
 import random
